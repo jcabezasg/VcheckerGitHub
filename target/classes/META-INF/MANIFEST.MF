@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Class-Path: spring-webmvc-4.1.6.RELEASE.jar spring-beans-4.1.6.RELEASE
+ .jar spring-context-4.1.6.RELEASE.jar spring-aop-4.1.6.RELEASE.jar ao
+ palliance-1.0.jar spring-core-4.1.6.RELEASE.jar commons-logging-1.2.j
+ ar spring-expression-4.1.6.RELEASE.jar spring-web-4.1.6.RELEASE.jar j
+ ackson-databind-2.3.4.jar jackson-annotations-2.3.0.jar jackson-core-
+ 2.3.4.jar commons-lang-2.1.jar plexus-utils-1.1.jar
+Build-Jdk: 1.7.0_95
+Built-By: javier
+Created-By: Maven Integration for Eclipse
+Main-Class: VcheckerGitHub
+
